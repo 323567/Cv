@@ -1,3 +1,13 @@
-input{
-    box-shadow: 5px 5px 10px black ;
+h1,h3{
+color: blue;
+}
+html{
+    background-color:#dec09e;
+}
+hr{
+    border-style: none;
+    border-top-style: dashed ;
+    border-color: grey;
+    border-width: 540%;
+    width:60px;
 }
